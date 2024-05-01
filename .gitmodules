@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com/AttAditya/kyp-backend.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:notpritam/KYP-Frontend.git
+	branch = main
