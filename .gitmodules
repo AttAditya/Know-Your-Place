@@ -1,6 +1,6 @@
-[submodule "kyp-backend"]
+[submodule "backend"]
 	path = kyp-backend
 	url = https://github.com/AttAditya/kyp-backend.git
-[submodule "KYP-Frontend"]
+[submodule "frontend"]
 	path = KYP-Frontend
 	url = https://github.com/notpritam/KYP-Frontend
